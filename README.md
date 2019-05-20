@@ -4,8 +4,11 @@ The core used in the Dularia RPG server! :3
 ###### Commands
 
 /fly [player] - activate flight for one's self or another player
+
   default permissions:
+  
     fly-self: dularia.premium.fly
+    
     fly-other: dularia.admin.fly_other
 
 ###### To-Do List
