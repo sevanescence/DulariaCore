@@ -1,0 +1,4 @@
+name: DulariaCore
+version: 1.0
+main: com.dularia.core.DulariaCore
+description: Core for Dularia because dummy manager no like essentials

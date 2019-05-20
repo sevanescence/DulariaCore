@@ -1,0 +1,8 @@
+com\dularia\core\console\Messages.class
+com\dularia\core\loaders\AliasLoader.class
+com\dularia\core\commands\Fly.class
+com\dularia\core\loaders\ConfigLoader.class
+com\dularia\core\DulariaCore.class
+com\dularia\core\formats\Ampersand.class
+com\dularia\core\loaders\CommandLoader.class
+com\dularia\core\objects\DCommand.class
