@@ -1,12 +1,5 @@
 debug-mode: true
 
-chat-format-permissions:
-  colors: dularia.chat.colors
-  strikethrough: dularia.chat.strikethrough
-  bold: dularia.chat.bold
-  italic: dularia.chat.italic
-  scramble: dularia.chat.scramble
-
 commands: # command permissions in permissions.yml
   fly:
     worlds: # can be set to single string saying either "banned_overall" or "allowed_overall"
