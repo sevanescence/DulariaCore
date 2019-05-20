@@ -1,2 +1,8 @@
+chat-colors: dularia.chat.colors
+chat-strikethrough: dularia.chat.strikethrough
+chat-bold: dularia.chat.bold
+chat-italic: dularia.chat.italic
+chat-scramble: dularia.chat.scramble
+
 fly-self: dularia.premium.fly
 fly-other: dularia.admin.fly_other
